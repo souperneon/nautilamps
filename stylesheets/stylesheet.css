@@ -67,6 +67,10 @@ a:hover {
 	margin-left: 25px;
 }
 
+.map {
+	height: auto;
+}
+
 h1 {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 40px; 
