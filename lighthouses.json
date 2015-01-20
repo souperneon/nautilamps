@@ -1,0 +1,141 @@
+[  
+   {  
+      "name":"Cape Hatteras Light",
+      "lat":"35.250533",
+      "lng":"-75.528817",
+      "location":"North Carolina, USA"
+   },
+   {  
+      "name":"Cape Charles Light",
+      "lat":"37.12292",
+      "lng":"-75.90647",
+      "location":"Virginia, USA",
+      "height":"191 feet (58 m)"
+   },
+   {  
+      "name":"Ponce de Leon Inlet Light",
+      "lat":"29.080617",
+      "lng":"-80.928017",
+      "location":"Florida, USA",
+      "height":"175 feet (53 m)"
+   },
+   {  
+      "name":"Barnegat Lighthouse",
+      "lat":"39.751944",
+      "lng":"-74.11083",
+      "location":"New Jersey, USA",
+      "height":"172 feet (52 m)"
+   },
+   {  
+      "name":"Cape Lookout Lighthouse",
+      "lat":"34.605278",
+      "lng":"-76.536111",
+      "location":"North Carolina, USA",
+      "height":"169 feet (51 m)"
+   },
+   {  
+      "name":"Absecon Light",
+      "lat":"40.63244",
+      "lng":"-74.414167",
+      "location":"New Jersey, USA",
+      "height":"169 feet (51 m)"
+   },
+   {  
+      "name":"Fire Island Light",
+      "lat":"40.632444",
+      "lng":"-73.218583",
+      "location":"New York, USA",
+      "height":"168 feet (51 m)"
+   },
+   {  
+      "name":"St. Augustine Light",
+      "lat":"29.885556",
+      "lng":"-81.288611",
+      "location":"Florida, USA",
+      "height":"165 feet (50 m)"
+   },
+   {  
+      "name":"Cape Henry Light",
+      "lat":"36.925556",
+      "lng":"-76.008333",
+      "location":"Virginia, USA",
+      "height":"164 feet (50 m)"
+   },
+   {  
+      "name":"Navassa Island Light",
+      "lat":"18.400278",
+      "lng":"-75.010833",
+      "location":"Navassa Island, HT",
+      "height":"162 feet (49 m)"
+   },
+   {  
+      "name":"Morris Island Light",
+      "lat":"32.695278",
+      "lng":"-79.883611",
+      "location":"South Carolina, USA",
+      "height":"161 feet (49 m)"
+   },
+   {  
+      "name":"Currituck Beach Light",
+      "lat":"36.376667",
+      "lng":"-75.830833",
+      "location":"North Carolina, USA",
+      "height":"158 feet (48 m)"
+   },
+   {  
+      "name":"Bodie Island Lighthouse",
+      "lat":"35.81864",
+      "lng":"-75.56351",
+      "location":"North Carolina, USA",
+      "height":"158 feet (48 m)"
+   },
+   {  
+      "name":"Cape May Light",
+      "lat":"38.93297",
+      "lng":"-74.96034",
+      "location":"New Jersey, USA",
+      "height":"157 feet (48 m)"
+   },
+   {  
+      "name":"Dry Tortugas Light",
+      "lat":"24.633339",
+      "lng":"-82.920544",
+      "location":"Florida, USA",
+      "height":"157 feet (48 m)"
+   },
+   {  
+      "name":"Tybee Island Light",
+      "lat":"32.022614",
+      "lng":"-80.853578",
+      "location":"Georgia, USA",
+      "height":"154 feet (47 m)"
+   },
+   {  
+      "name":"Cape Canaveral Light",
+      "lat":"28.46035",
+      "lng":"-80.54345",
+      "location":"Florida, USA",
+      "height":"151 feet (46 m)"
+   },
+   {  
+      "name":"Pensacola Light",
+      "lat":"30.346389",
+      "lng":"-87.308056",
+      "location":"Florida, USA",
+      "height":"150 feet (46 m)"
+   },
+   {  
+      "name":"Cape Romain Lighthouses",
+      "lat":"33.018889",
+      "lng":"-79.373611",
+      "location":"South Carolina, USA",
+      "height":"150 feet (46 m)"
+   },
+   {  
+      "name":"Oak Island Light",
+      "lat":"33.892931",
+      "lng":"-78.034377",
+      "location":"North Carolina, USA",
+      "height":"148 feet (45 m)"
+   }
+]
